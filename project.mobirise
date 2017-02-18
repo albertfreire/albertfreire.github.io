@@ -324,7 +324,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "5",
+            "columns": "4",
             "showImages": true,
             "showTitles": false,
             "showSubtitles": true,
@@ -351,17 +351,17 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "yahoo",
+              "name": "youtube",
               "family": "socicon",
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#41a85f"
+              "color": "#b8312f"
             }
           },
           "title2": "Responsive",
-          "subtitle2": "Yahoo Intern",
-          "caption2": "I wish to start working as a Technical Intern for Yahoo, I get paid $37.68 an hour, and I plan to work a full shift, that would be 7-8 hours, and I would be making $263.76 in a full day.",
+          "subtitle2": "Part-Time YouTuber",
+          "caption2": "I don't have many subscribers, but its enough for me to continue, you can find my channel in the Help section of the menu, you can contact me through YouTube.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "iconFont": {
