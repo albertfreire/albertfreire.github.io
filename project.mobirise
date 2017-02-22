@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 47,
+    "uniqCompNum": 48,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -395,23 +395,24 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_inherit": "social-buttons2",
           "_styles": {
             ".mbr-section-title, .btn-social": {
-              "color": "#232323"
+              "color": "#fff"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "social-buttons2",
-          "_anchor": "social-buttons2-1a",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-1b",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/dodge-charger-r-t-2000x1500.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
