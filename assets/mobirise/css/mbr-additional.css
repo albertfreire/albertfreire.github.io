@@ -494,6 +494,10 @@ h6,
 #features6-1 P {
   text-align: left;
 }
+#social-buttons2-1a .mbr-section-title,
+#social-buttons2-1a .btn-social {
+  color: #232323;
+}
 #menu-a .hide-buttons .nav-btn {
   display: none !important;
 }
