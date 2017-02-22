@@ -311,8 +311,8 @@
             }
           },
           "title1": "Goals",
-          "subtitle1": "Tech Production",
-          "caption1": "I'm in a Magnet School, currently right now, i'm in Tech Production. My goal is to finish Tech Production with outstanding grades, and even more outstanding work, so I can move on to bigger things.",
+          "subtitle1": "<br>Tech Production",
+          "caption1": "I'm in a Magnet School, currently right now, i'm in Tech Production. My goal is to finish Tech Production with outstanding grades, and even more outstanding work, so I can move on to bigger things.<br><br><br>",
           "button1": "<a data-app-btn=\"true\" href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -322,14 +322,14 @@
               "family": "socicon",
               "active": true,
               "link": "https://mobirise.com",
-              "size": "85",
+              "size": "80",
               "color": "#b8312f",
               "newWindow": false
             }
           },
           "title2": "Responsive",
           "subtitle2": "Part-Time YouTuber",
-          "caption2": "I don't have many subscribers, but its enough for me to continue, you can find my channel in the Help section of the menu, you can contact me through YouTube.",
+          "caption2": "I don't have many subscribers, but its enough for me to continue, you can find my channel in the Help section of the menu, you can contact me through YouTube.<br><br><br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -344,7 +344,7 @@
             }
           },
           "title3": "Web Fonts",
-          "subtitle3": "Hacker",
+          "subtitle3": "<br>Hacker",
           "caption3": "Now, it's not what it sounds like, i'm not going to hack things i'm not supposed to hack, I am trying to aim high and join wikileaks to expose more things to help the world know what is really going on inside of their communities, and countries.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
@@ -360,8 +360,8 @@
             }
           },
           "title4": "Unlimited Sites",
-          "subtitle4": "Company Worker/CEO",
-          "caption4": "My biggest aim is to work up all the way to the top of a company, to a CEO or close to that rank, that way I can run and suggest much bigger, and better ideas that are inexpensive and will be beneficial to the company and the world.<br>",
+          "subtitle4": "<br>Company Worker/CEO",
+          "caption4": "My biggest aim is to work up all the way to the top of a company, to a CEO or close to that rank, that way I can run and suggest much bigger, and better ideas that are inexpensive and will be beneficial to the company and the world.<br><br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
