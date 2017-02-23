@@ -429,7 +429,7 @@
           "_anchor": "contacts4-17",
           "_params": {
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/dodge-charger-r-t-2000x1500.jpg",
@@ -553,7 +553,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img-20170125-121937-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20170125-121937-128x1280.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://www.albertfreire.github.io",
@@ -688,7 +688,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img-20170125-121937-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20170125-121937-128x1280.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://www.albertfreire.github.io",
@@ -903,7 +903,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img-20170125-121937-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20170125-121937-128x1280.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://www.albertfreire.github.io",
@@ -1267,7 +1267,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img-20170125-121937-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20170125-121937-128x1280.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://www.albertfreire.github.io",
@@ -1349,7 +1349,7 @@
             }
           },
           "title": "INTRO WITH IMAGE",
-          "text": "To you right you will see a picture of my dog Duke. Now my family had adopted him in 2007 and right when I had seen him at the shelter I knew instantly at that moment, he was going to be my new hairy brother. He was born January 21, 2006 he was very small at the time and no one expected him to get as big as he got. Duke had lived through almost every single event that affected my life. Everyone has that one person that you could talk about your emotions to, well Duke was that person. I didn't look at him as a pet or a dog. I saw him as my brother, he lived with me for 10 years before fighting a tumor with cancer and dying. Duke would hop on my couch and watch me play video games, and I for every goal/kill/achievement I got, I would give him a celebratory potato chip. Now there were times where he would get out and chase cats or &nbsp;bite a frog. He defended us at all times, he was playful but also very alert. Duke was my favorite thing in the whole world and I miss him. Scroll down below to see a gallery of Duke. I have joined the fight to end cancer for everyone. Please join and donate to support to end cancer so no more animals or people die from cancer.",
+          "text": "To your right you will see a picture of my dog Duke. Now my family had adopted him in 2007 and right when I had seen him at the shelter I knew instantly at that moment, he was going to be my new hairy brother. He was born January 21, 2006 he was very small at the time and no one expected him to get as big as he got. Duke had lived through almost every single event that affected my life. Everyone has that one person that you could talk about your emotions to, well Duke was that person. I didn't look at him as a pet or a dog. I saw him as my brother, he lived with me for 10 years before fighting a tumor with cancer and dying. Duke would hop on my couch and watch me play video games, and I for every goal/kill/achievement I got, I would give him a celebratory potato chip. Now there were times where he would get out and chase cats or &nbsp;bite a frog. He defended us at all times, he was playful but also very alert. Duke was my favorite thing in the whole world and I miss him. Scroll down below to see a gallery of Duke. I have joined the fight to end cancer for everyone. Please join and donate to support to end cancer so no more animals or people die from cancer.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">JOIN THE FIGHT</a>"
         },
         {
@@ -1387,19 +1387,20 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/duke-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/duke-2000x2666.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/duke-the-builder-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/duke-the-builder-2000x2666.jpg",
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "tags": "Creative",
@@ -1550,7 +1551,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img-20170125-121937-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20170125-121937-128x1280.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://www.albertfreire.github.io",
