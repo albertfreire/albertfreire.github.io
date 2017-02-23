@@ -32,7 +32,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "My Hompage",
+        "title": "Hompage",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -553,7 +553,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img-20170125-121937-128x1280.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20170125-121937-128x1281.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://www.albertfreire.github.io",
@@ -688,7 +688,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img-20170125-121937-128x1280.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20170125-121937-128x1281.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://www.albertfreire.github.io",
@@ -903,7 +903,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img-20170125-121937-128x1280.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20170125-121937-128x1281.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://www.albertfreire.github.io",
@@ -1189,8 +1189,8 @@
     },
     "Duke and I.html": {
       "settings": {
-        "title": "Site Builder Title",
-        "meta_descr": "Site Builder Description"
+        "title": "Dukes Bio",
+        "meta_descr": ""
       },
       "components": [
         {
@@ -1267,7 +1267,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img-20170125-121937-128x1280.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20170125-121937-128x1281.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://www.albertfreire.github.io",
@@ -1551,7 +1551,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img-20170125-121937-128x1280.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20170125-121937-128x1281.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://www.albertfreire.github.io",
