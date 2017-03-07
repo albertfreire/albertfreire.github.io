@@ -707,6 +707,10 @@ h6,
 #header3-13 .mbr-section-subtitle {
   text-align: center;
 }
+#header3-1i .mbr-section-title,
+#header3-1i .mbr-section-subtitle {
+  text-align: center;
+}
 #menu-t .hide-buttons .nav-btn {
   display: none !important;
 }
