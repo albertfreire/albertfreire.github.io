@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "hompage.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -17,12 +17,13 @@
         "textFont": "Montserrat",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true
+        "isScrollToTopButton": true,
+        "isRtl": false
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 55,
-    "versionPublish": "3.11.1",
+    "uniqCompNum": 58,
+    "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
@@ -1464,8 +1465,8 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "Hi There and Welcome To My Website",
-          "text": "Allow me to introduce myself. I'm Albert Freire and here you can find out more about me, my work, goals and much more. In the menu above you will find the links to certain things like my work, bio, and credentials.",
+          "title": "&nbsp;Hey, I'm Albert, Welcome!",
+          "text": "Hard Workers May Be Able To Play Hard, but If You Play Hard, You Can Work Just As Hard ~ Albert Freire",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -1570,7 +1571,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/albert-freire-queen-cd-lp-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/albert-freire-queen-cd-lp-2000x20002.jpg",
+                "image": "@PROJECT_PATH@/assets/images/albert-freire-queen-cd-lp-2000x20000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1599,7 +1600,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/albert-freire-queen-cd-lp-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/albert-freire-queen-cd-lp-2000x20002.jpg",
+                "image": "@PROJECT_PATH@/assets/images/albert-freire-queen-cd-lp-2000x20000.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
