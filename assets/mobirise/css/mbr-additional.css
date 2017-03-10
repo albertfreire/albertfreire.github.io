@@ -486,72 +486,9 @@ h6,
 #header3-11 .mbr-section-subtitle {
   text-align: center;
 }
-#menu-6 .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-6 .navbar-caption {
-  color: #ffffff;
-}
-#menu-6 .navbar-toggler {
-  color: #ffffff;
-}
-#menu-6 .link,
-#menu-6 .dropdown-item {
-  color: #ffffff;
-}
-#menu-6 .link {
-  font-size: 0.75rem;
-}
-#menu-6 .dropdown-item,
-#menu-6 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
-}
-#menu-6 .link:hover,
-#menu-6 .dropdown-item:hover,
-#menu-6 .link:focus,
-#menu-6 .dropdown-item:focus {
-  color: #535353;
-}
-#menu-6 .link[aria-expanded="true"],
-#menu-6 .dropdown-menu {
-  background: #0e0e0e;
-}
-#menu-6 .nav-dropdown-sm .link:focus,
-#menu-6 .nav-dropdown-sm .link:hover,
-#menu-6 .nav-dropdown-sm .dropdown-item:focus,
-#menu-6 .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
-}
-#menu-6 .navbar,
-#menu-6 .nav-dropdown-sm,
-#menu-6 .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-6 .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
-}
-#menu-6 .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#menu-6 .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-6 .bg-color.transparent.opened .link:hover,
-#menu-6 .bg-color.transparent.opened .link:focus {
-  color: #535353;
-}
-#menu-6 .link[aria-expanded="true"],
-#menu-6 .dropdown-item[aria-expanded="true"] {
-  color: #535353!important;
-}
-#menu-6.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#menu-6 .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#menu-6 .close-icon::before,
-#menu-6 .close-icon::after {
-  background-color: #ffffff;
+#social-buttons4-1s .mbr-section-title,
+#social-buttons4-1s .btn-social {
+  color: #fff;
 }
 #menu-d .hide-buttons .nav-btn {
   display: none !important;
@@ -636,80 +573,9 @@ h6,
 #header3-y .mbr-section-subtitle {
   text-align: center;
 }
-#menu-n .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-n .navbar-caption {
-  color: #ffffff;
-}
-#menu-n .navbar-toggler {
-  color: #ffffff;
-}
-#menu-n .link,
-#menu-n .dropdown-item {
-  color: #ffffff;
-}
-#menu-n .link {
-  font-size: 0.75rem;
-}
-#menu-n .dropdown-item,
-#menu-n .nav-dropdown-sm .link {
-  font-size: 0.812rem;
-}
-#menu-n .link:hover,
-#menu-n .dropdown-item:hover,
-#menu-n .link:focus,
-#menu-n .dropdown-item:focus {
-  color: #535353;
-}
-#menu-n .link[aria-expanded="true"],
-#menu-n .dropdown-menu {
-  background: #0e0e0e;
-}
-#menu-n .nav-dropdown-sm .link:focus,
-#menu-n .nav-dropdown-sm .link:hover,
-#menu-n .nav-dropdown-sm .dropdown-item:focus,
-#menu-n .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
-}
-#menu-n .navbar,
-#menu-n .nav-dropdown-sm,
-#menu-n .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-n .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
-}
-#menu-n .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#menu-n .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-n .bg-color.transparent.opened .link:hover,
-#menu-n .bg-color.transparent.opened .link:focus {
-  color: #535353;
-}
-#menu-n .link[aria-expanded="true"],
-#menu-n .dropdown-item[aria-expanded="true"] {
-  color: #535353!important;
-}
-#menu-n.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#menu-n .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#menu-n .close-icon::before,
-#menu-n .close-icon::after {
-  background-color: #ffffff;
-}
-#header3-13 .mbr-section-title,
-#header3-13 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1i .mbr-section-title,
-#header3-1i .mbr-section-subtitle {
-  text-align: center;
+#social-buttons4-1t .mbr-section-title,
+#social-buttons4-1t .btn-social {
+  color: #fff;
 }
 #menu-t .hide-buttons .nav-btn {
   display: none !important;
@@ -784,6 +650,10 @@ h6,
 }
 #msg-box6-v H3 {
   text-align: center;
+}
+#social-buttons4-1r .mbr-section-title,
+#social-buttons4-1r .btn-social {
+  color: #fff;
 }
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
@@ -939,4 +809,15 @@ h6,
 }
 #header1-1f .btn {
   font-family: 'Slabo 27px', serif;
+}
+#header3-1o .mbr-section-title,
+#header3-1o .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1o H3 {
+  color: #ffffff;
+}
+#social-buttons4-1q .mbr-section-title,
+#social-buttons4-1q .btn-social {
+  color: #fff;
 }
