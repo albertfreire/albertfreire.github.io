@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Adobe Photoshop Gallery.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -17,12 +17,13 @@
         "textFont": "Montserrat",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true
+        "isScrollToTopButton": true,
+        "isRtl": false
       }
     },
     "versionFirst": "3.10.4",
     "uniqCompNum": 77,
-    "versionPublish": "3.11.1",
+    "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
@@ -982,13 +983,93 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-2000x1616-800x646.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-2000x1616.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/albert-freire-picasso-la-muse-layers-2-2000x1616-800x646.jpg",
+                "image": "@PROJECT_PATH@/assets/images/albert-freire-picasso-la-muse-layers-2-2000x1616.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/albert-freire-picasso-la-muse-layers-3-2000x1616-800x646.jpg",
+                "image": "@PROJECT_PATH@/assets/images/albert-freire-picasso-la-muse-layers-3-2000x1616.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/albert-freire-picasso-la-muse-layers-4-2000x1616-800x646.jpg",
+                "image": "@PROJECT_PATH@/assets/images/albert-freire-picasso-la-muse-layers-4-2000x1616.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/albert-freire-picasso-la-muse-layers-5-2000x1616-800x646.jpg",
+                "image": "@PROJECT_PATH@/assets/images/albert-freire-picasso-la-muse-layers-5-2000x1616.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/albert-freire-picasso-la-muse-layers-6-2000x1616-800x646.jpg",
+                "image": "@PROJECT_PATH@/assets/images/albert-freire-picasso-la-muse-layers-6-2000x1616.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/albert-freire-picasso-la-muse-layers-7-2000x1616-800x646.jpg",
+                "image": "@PROJECT_PATH@/assets/images/albert-freire-picasso-la-muse-layers-7-2000x1616.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/albert-freire-picasso-la-muse-layers-8-2000x1616-800x646.jpg",
+                "image": "@PROJECT_PATH@/assets/images/albert-freire-picasso-la-muse-layers-8-2000x1616.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/albert-freire-picasso-la-muse-layers-9-2000x1616-800x646.jpg",
+                "image": "@PROJECT_PATH@/assets/images/albert-freire-picasso-la-muse-layers-9-2000x1616.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
             ],
-            "spacing": 0,
+            "spacing": "1",
             "showText": false,
             "filter": false,
             "bgColor": "fff",
@@ -1024,7 +1105,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
-          "text": "FOLLOW US",
+          "text": "FOLLOW ME",
           "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCnp3vd2Jy-Cg6bT-jEcizdg\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/living_dead_055/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
         },
         {
