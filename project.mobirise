@@ -210,7 +210,7 @@
             "overlayColor": "#3C3C3C"
           },
           "text1": "<strong>Address</strong><br>7800 SW 132 Ave<br>Miami, FL 33185<br><br><br>\n<strong>Contacts</strong><br>\nEmail: afreire@miamiartsstudio.com or livingdead077@gmail.com<br>\nPhone: 786-523-8546<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>Mr. Pate's Website</li><li>Miami Arts Studio 6-12</li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">Mr. Pate's Website</a></li><li><a href=\"http://mas.dadeschools.net\" target=\"_blank\">Miami Arts Studio 6-12</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "afreire@miamiartsstudio.com",
@@ -1147,7 +1147,7 @@
             "overlayColor": "#3C3C3C"
           },
           "text1": "<strong>Address</strong><br>7800 SW 132 Ave<br>Miami, FL 33185<br><br><br>\n<strong>Contacts</strong><br>\nEmail: afreire@miamiartsstudio.com or livingdead077@gmail.com<br>\nPhone: 786-523-8546<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>Mr. Pate's Website</li><li>Miami Arts Studio 6-12</li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">Mr. Pate's Website</a></li><li><a href=\"http://mas.dadeschools.net\" target=\"_blank\">Miami Arts Studio 6-12</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "afreire@miamiartsstudio.com",
@@ -1402,7 +1402,7 @@
             "overlayColor": "#3C3C3C"
           },
           "text1": "<strong>Address</strong><br>7800 SW 132 Ave<br>Miami, FL 33185<br><br><br>\n<strong>Contacts</strong><br>\nEmail: afreire@miamiartsstudio.com or livingdead077@gmail.com<br>\nPhone: 786-523-8546<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>Mr. Pate's Website</li><li>Miami Arts Studio 6-12</li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">Mr. Pate's Website</a></li><li><a href=\"http://mas.dadeschools.net\" target=\"_blank\">Miami Arts Studio 6-12</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "afreire@miamiartsstudio.com",
@@ -1847,7 +1847,7 @@
             "overlayColor": "#3C3C3C"
           },
           "text1": "<strong>Address</strong><br>7800 SW 132 Ave<br>Miami, FL 33185<br><br><br>\n<strong>Contacts</strong><br>\nEmail: afreire@miamiartsstudio.com or livingdead077@gmail.com<br>\nPhone: 786-523-8546<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">Mr. Pate's Website</a></li><li><a href=\"http://www.mas.dadeschools.net\">Miami Arts Studio 6-12</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">Mr. Pate's Website</a></li><li><a href=\"http://mas.dadeschools.net\" target=\"_blank\">Miami Arts Studio 6-12</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "afreire@miamiartsstudio.com",
@@ -2166,7 +2166,7 @@
             "overlayColor": "#3C3C3C"
           },
           "text1": "<strong>Address</strong><br>7800 SW 132 Ave<br>Miami, FL 33185<br><br><br>\n<strong>Contacts</strong><br>\nEmail: afreire@miamiartsstudio.com or livingdead077@gmail.com<br>\nPhone: 786-523-8546<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">Mr. Pate's Website</a></li><li><a href=\"http://www.mas.dadeschools.net\">Miami Arts Studio 6-12</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">Mr. Pate's Website</a></li><li><a href=\"http://mas.dadeschools.net\" target=\"_blank\">Miami Arts Studio 6-12</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "afreire@miamiartsstudio.com",
