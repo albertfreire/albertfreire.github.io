@@ -664,6 +664,16 @@ h6,
 #menu-t .close-icon::after {
   background-color: #ffffff;
 }
+#features7-26 .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-26 .iconbox {
+  background-color: #535353;
+  border-color: #535353;
+}
+#features7-26 H4 {
+  font-size: 15px;
+}
 #social-buttons4-1r .mbr-section-title,
 #social-buttons4-1r .btn-social {
   color: #fff;
@@ -741,12 +751,6 @@ h6,
 }
 #header3-s H3 {
   color: #ffffff;
-}
-#features6-1 H5 {
-  text-align: center;
-}
-#features6-1 P {
-  text-align: left;
 }
 #social-buttons4-1b .mbr-section-title,
 #social-buttons4-1b .btn-social {
