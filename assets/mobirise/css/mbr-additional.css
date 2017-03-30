@@ -759,6 +759,9 @@ h6,
 #social-buttons4-1b .btn-social {
   color: #fff;
 }
+#contacts4-17 UL {
+  text-align: left;
+}
 
 #menu-1c .hide-buttons .nav-btn {
   display: none !important;
@@ -840,4 +843,7 @@ h6,
 #social-buttons4-1q .mbr-section-title,
 #social-buttons4-1q .btn-social {
   color: #fff;
+}
+#contacts4-17 UL {
+  text-align: left;
 }
