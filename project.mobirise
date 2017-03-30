@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Bio.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 77,
+    "uniqCompNum": 78,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -1295,28 +1295,18 @@
           "text": "Copyright (c) 2016-2017 Albert Freire."
         },
         {
-          "_inherit": "msg-box5",
-          "_styles": {
-            ".mbr-section-title, .lead p": {
-              "color": "#fff"
-            },
-            "H3": {
-              "text-align": "center"
-            }
-          },
+          "_inherit": "header1",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box6",
-          "_anchor": "msg-box6-v",
+          "_name": "header4",
+          "_anchor": "header4-25",
           "_params": {
-            "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": false,
+            "showArrow": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1325,36 +1315,14 @@
             "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "inverse": true,
+            "contentAlign": "right",
             "showTitle": true,
             "showText": true,
             "showButtons": false
           },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/20170309-1400x1866.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "My Biography",
+          "title": "My Bio",
           "text": "Hi, my name is Albert and I would like to tell you about myself. I am 13 years old and live in the area of Southwest Miami. I am very interested in Computer Programming. I have taken Id Tech programming classes at the University of Miami during my summer break and I am currently in the magnet program at Miami Arts Studio at Zelda Glazer. The classes I am attending are Adobe Photoshop, Illustrator and Dreamweaver. I also keep up with the Python experience I learned over the summer and I will be attending Java Script classes at Id Tech this year.<br>At a very early age I was fascinated by the technology behind video games, that’s what drives my interest in Computer Programming. I am dedicated, hardworking and most of all I am driven to achieve my goals. You can see some of my work which I hope you will find interesting.<br>Something I thought was entertaining at an early age has given me a future career path.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_inherit": "social-buttons2",
