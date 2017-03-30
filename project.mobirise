@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "hompage.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -2171,7 +2171,7 @@
             "title": "MESSAGE",
             "action": "afreire@miamiartsstudio.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for notifying me!"
             },
             "fields": {
               "name": {
