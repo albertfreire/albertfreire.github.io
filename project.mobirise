@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Bio.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -2211,12 +2211,12 @@
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "Name*"
+                "customTitle": "Name"
               },
               "email": {
                 "title": "Email",
                 "visible": true,
-                "customTitle": "Email*"
+                "customTitle": "Email"
               },
               "phone": {
                 "title": "Phone",
