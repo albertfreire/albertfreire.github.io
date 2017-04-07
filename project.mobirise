@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "hompage.html",
+    "currentPage": "Adobe Premire Pro Gallery.html",
     "name": "Albert Freire",
     "theme": {
       "name": "mobirise3",
@@ -17,13 +17,12 @@
         "textFont": "Montserrat",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true,
-        "isRtl": false
+        "isScrollToTopButton": true
       }
     },
     "versionFirst": "3.10.4",
     "uniqCompNum": 102,
-    "versionPublish": "3.12.1",
+    "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
@@ -2454,7 +2453,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "https://youtu.be/YG1Sa9aHgJs",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
