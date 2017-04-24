@@ -1884,7 +1884,7 @@
             "title": "MESSAGE",
             "action": "afreire@miamiartsstudio.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for contacting me! I'll make sure I read your message!"
             },
             "fields": {
               "name": {
