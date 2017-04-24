@@ -922,6 +922,10 @@ h6,
 #header3-2r .mbr-section-subtitle {
   text-align: center;
 }
+#header3-2v .mbr-section-title,
+#header3-2v .mbr-section-subtitle {
+  text-align: center;
+}
 #contacts4-2p UL {
   text-align: left;
 }
