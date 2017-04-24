@@ -926,6 +926,10 @@ h6,
 #header3-2v .mbr-section-subtitle {
   text-align: center;
 }
+#social-buttons4-2w .mbr-section-title,
+#social-buttons4-2w .btn-social {
+  color: #fff;
+}
 #contacts4-2p UL {
   text-align: left;
 }
