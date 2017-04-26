@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Adobe Premire Pro Gallery.html",
     "name": "Albert Freire",
     "theme": {
       "name": "mobirise3",
@@ -17,13 +17,12 @@
         "textFont": "Montserrat",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true,
-        "isRtl": false
+        "isScrollToTopButton": true
       }
     },
     "versionFirst": "3.10.4",
     "uniqCompNum": 105,
-    "versionPublish": "3.12.1",
+    "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
@@ -2524,7 +2523,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "https://www.youtube.com/watch?v=pSjkanfbZvU",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -2544,6 +2543,9 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -2564,7 +2566,7 @@
             "overlayColor": "#222"
           },
           "text": "FOLLOW ME!",
-          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>      "
+          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>      "
         },
         {
           "_tags": [
