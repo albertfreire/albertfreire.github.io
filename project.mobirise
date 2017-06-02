@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Adobe Photoshop Gallery.html",
+    "currentPage": "Adobe Premire Pro Gallery.html",
     "name": "Albert Freire",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 107,
+    "uniqCompNum": 109,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -1203,6 +1203,59 @@
             "showBullets": true
           },
           "_anchor": "gallery2-2x",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-30",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Project 19 - Multi Media Show Animation",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/animation-800x425.png",
+                "image": "@PROJECT_PATH@/assets/images/animation.gif",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#ffffff",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-2z",
           "articleLayout": false,
           "allItem": "All"
         },
